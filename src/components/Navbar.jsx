@@ -12,7 +12,7 @@ const Navbar = () => {
 
 
   return (
-    <div className='fixed  w-full h-[80px] flex justify-between items-center px-4 bg-[#353839] text-gray-300'>
+    <div className='fixed  w-full h-[80px] flex justify-between items-center px-4 bg-[#080808] text-gray-300'>
         <div>
             <img src={Logo} alt="Logo Image" style= {{width:'150px'}} />
         </div>
@@ -37,7 +37,7 @@ const Navbar = () => {
 
         {/* Mobile Menu */}
 
-        <ul className={!nav ? 'hidden' : "absolute top-0 left-0 w-full h-screen bg-[#353839] flex flex-col justify-center items-center"}>
+        <ul className={!nav ? 'hidden' : "absolute top-0 left-0 w-full h-screen bg-[#080808] flex flex-col justify-center items-center"}>
             <li className='py-6 text-4xl'>Home</li>
             <li className='py-6 text-4xl'>About</li>
             <li className='py-6 text-4xl'>Skills</li>
