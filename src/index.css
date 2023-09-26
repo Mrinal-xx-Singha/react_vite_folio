@@ -26,6 +26,8 @@ span {
 }
 
 .content-div:hover {
+  justify-content: center;
+  align-items: center;
   background-image: linear-gradient(
     to right,
     rgba(112,157,255, 0.8),

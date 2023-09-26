@@ -5,14 +5,14 @@ import WorkImg2 from '../assets/work2.jpg'
 
 const Work = () => {
   return (
-    <div className='bg-[#080808] w-full md:h-screen text-gray-300 '>
+    <div name="work" className='bg-[#080808] w-full md:h-screen text-gray-300 '>
       {/* Container  */}
 
 
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
             <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>Work</p>
-            <p className='py-4'>Check out some of my recent works</p>
+            <p className='py-6'>Check out some of my recent works</p>
 
             {/* Portfolio  */}
         </div>
