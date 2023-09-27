@@ -30,7 +30,7 @@ span {
   align-items: center;
   background-image: linear-gradient(
     to right,
-    rgba(112,157,255, 0.8),
-    hsla(242,74%,61%,0.8)
+    rgba(255, 112, 243, 0.8),
+    hsla(293, 74%, 61%, 0.8)
   )!important;
 }
