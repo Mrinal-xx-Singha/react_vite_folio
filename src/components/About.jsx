@@ -15,11 +15,12 @@ const About = () => {
         </div>
 
          <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-          <div className='sm:text-right text-4xl font-bold '>
-            <p>Hi 👋🏼,<br /> I'm <span>Mrinal</span>, nice to meet you.please take a look at my work</p>
+          <div className='sm:text-right text-4xl font-bold sm:justify-center'>
+            <p>Hi 👋🏼,<br /> I'm <span>Mrinal</span>, nice to meet you.<br />
+            please take a look at my work</p>
           </div>
           <div className='text-justify'>
-            <p>I am an adept <span>Electrical Engineer</span> with an unwavering passion for <span>Front-End Development</span>. Equipped with a solid technical foundation,
+            <p>I am an adept <span>Electrical Engineer</span> with an unwavering passion for <span>Front-End Development</span> & Web Development in general. Equipped with a solid technical foundation,
                          I have seamlessly transitioned my skills to create captivating and user-centric <span>digital experiences</span>. 
                          My meticulous attention to detail, coupled with a keen eye for design aesthetics, allows me to craft intuitive interfaces that bridge the gap between functionality and visual appeal. 
                          Eager to contribute my engineering precision and enthusiasm for web development to a dynamic <span>front-end</span> team, I am dedicated to delivering seamless and engaging user interactions through my coding expertise.

@@ -13,12 +13,15 @@ const Home = () => {
              Let's bring your digital vision to life!"</p>         
              <div>
 
-            <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>View Work 
-            <span className='group-hover:rotate-90 duration-300'>
-            <HiArrowNarrowRight className='ml-3' />
-            </span>
-            
-            </button>
+            <a href="https://github.com/Mrinal-xx-Singha">
+              <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-gray-600 hover:border-gray-600'            
+              >View Work 
+                <span className='group-hover:rotate-90 duration-300'>
+                <HiArrowNarrowRight className='ml-3' />
+                </span>
+              </button>
+            </a>
+        
         </div>
         </div>
 
