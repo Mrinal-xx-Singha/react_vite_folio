@@ -1,12 +1,11 @@
 import React from 'react'
-import WorkImg from '../assets/work.jpg'
 import Mgym from '../assets/work/Mgym.png'
 import MrinalTube from '../assets/work/MrinalTube.png'
 import LandingPage from '../assets/work/LandingPage.png'
 import MyNetflix from '../assets/work/Netflix.png'
 import Mverse from '../assets/work/Mverse.png'
 import Mcrypto from '../assets/work/Mcrypto.png'
-import WorkImg2 from '../assets/work2.jpg'
+
 
 
 const Work = () => {
