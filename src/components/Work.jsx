@@ -1,5 +1,11 @@
 import React from 'react'
 import WorkImg from '../assets/work.jpg'
+import Mgym from '../assets/work/Mgym.png'
+import MrinalTube from '../assets/work/MrinalTube.png'
+import LandingPage from '../assets/work/LandingPage.png'
+import MyNetflix from '../assets/work/Netflix.png'
+import Mverse from '../assets/work/Mverse.png'
+import Mcrypto from '../assets/work/Mcrypto.png'
 import WorkImg2 from '../assets/work2.jpg'
 
 
@@ -24,7 +30,7 @@ const Work = () => {
 
           {/* card item */}
           <div
-            style={{backgroundImage:`url(${WorkImg})`}}
+            style={{backgroundImage:`url(${Mgym})`}}
           
             className='shadow-lg  shadow-[rgb(219,39,119)]  group container rounded-md flex justify-center items-center mx-auto content-div'>
 
@@ -52,7 +58,7 @@ const Work = () => {
 
           </div>
           <div
-            style={{backgroundImage:`url(${WorkImg2})`}}
+            style={{backgroundImage:`url(${MrinalTube})`}}
           
             className='shadow-lg  shadow-[rgb(219,39,119)]  group container rounded-md flex justify-center items-center mx-auto content-div'>
 
@@ -82,7 +88,7 @@ const Work = () => {
 
           </div>
           <div
-            style={{backgroundImage:`url(${WorkImg})`}}
+            style={{backgroundImage:`url(${LandingPage})`}}
           
             className='shadow-lg  shadow-[rgb(219,39,119)]  group container rounded-md flex justify-center items-center mx-auto content-div'>
 
@@ -112,7 +118,7 @@ const Work = () => {
 
           </div>
           <div
-            style={{backgroundImage:`url(${WorkImg2})`}}
+            style={{backgroundImage:`url(${MyNetflix})`}}
           
             className='shadow-lg  shadow-[rgb(219,39,119)]  group container rounded-md flex justify-center items-center mx-auto content-div'>
 
@@ -142,7 +148,7 @@ const Work = () => {
 
           </div>
           <div
-            style={{backgroundImage:`url(${WorkImg})`}}
+            style={{backgroundImage:`url(${Mverse})`}}
           
             className='shadow-lg  shadow-[rgb(219,39,119)]  group container rounded-md flex justify-center items-center mx-auto content-div'>
 
@@ -172,7 +178,7 @@ const Work = () => {
 
           </div>
           <div
-            style={{backgroundImage:`url(${WorkImg2})`}}
+            style={{backgroundImage:`url(${Mcrypto})`}}
           
             className='shadow-lg  shadow-[rgb(219,39,119)]  group container rounded-md flex justify-center items-center mx-auto content-div'>
 

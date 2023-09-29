@@ -21,10 +21,20 @@ const About = () => {
           </div>
           <div className='text-justify'>
             <p>I am an adept <span>Electrical Engineer</span> with an unwavering passion for <span>Front-End Development</span> & Web Development in general. Equipped with a solid technical foundation,
-                         I have seamlessly transitioned my skills to create captivating and user-centric <span>digital experiences</span>. 
-                         My meticulous attention to detail, coupled with a keen eye for design aesthetics, allows me to craft intuitive interfaces that bridge the gap between functionality and visual appeal. 
-                         Eager to contribute my engineering precision and enthusiasm for web development to a dynamic <span>front-end</span> team, I am dedicated to delivering seamless and engaging user interactions through my coding expertise.
+                I have seamlessly transitioned my skills to create captivating and user-centric <span>digital experiences</span>. 
+                My meticulous attention to detail, coupled with a keen eye for design aesthetics, allows me to craft intuitive interfaces that bridge the gap between functionality and visual appeal. 
+                Eager to contribute my engineering precision and enthusiasm for web development to a dynamic <span>front-end</span> team, I am dedicated to delivering seamless and engaging user interactions through my coding expertise.
             </p>
+            <h1 className='text-2xl mt-2'>Education</h1>
+            <h2><span>Btech Electrical Engineering "(2020-2024)"</span>
+            <ul className='text-justify'>
+            <li>
+              <h3>Did a 15day <span>Industrial Training</span> / Internship 
+                at (NFR) <span>"North Eastern Frontier Railways"</span>.
+              </h3>
+            </li>
+            </ul>
+            </h2>
           </div>
 
          </div>
