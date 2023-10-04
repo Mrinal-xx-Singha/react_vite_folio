@@ -3,9 +3,10 @@ import React from 'react'
 import react from '../assets/react.png';
 import Tailwind from '../assets/tailwind.png';
 import Javascript from '../assets/javascript.png';
-import Github from '../assets/github1.png';
+import Github from '../assets/github1.jpg';
 import Html from '../assets/html.png';
 import Css from '../assets/css.png';
+import Material from '../assets/Material.png'
 
 const Skills = () => {
   return (
@@ -46,9 +47,13 @@ const Skills = () => {
             <p className='my-4'>Tailwind</p>
           </div>
 
-          <div className='shadow-md shadow-[rgb(219,39,119)] hover:scale-110 bg-slate-500'>
+          <div className='shadow-md shadow-[rgb(219,39,119)] hover:scale-110 bg-slate-110'>
             <img src={Github} alt="github icon" className='w-20 mx-auto' />
             <p className='my-4'>Github</p>
+          </div>
+          <div className='shadow-md shadow-[rgb(219,39,119)] hover:scale-110 bg-slate-110 '>
+            <img src={Material} alt="Material ui" className='w-20 mx-auto' />
+            <p className='my-4'>Material ui</p>
           </div>
         </div>
 
