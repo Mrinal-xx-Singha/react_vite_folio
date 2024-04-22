@@ -1,5 +1,5 @@
 
-import Mgym from '../assets/work/Mgym.png';
+import Delice from '../assets/work/Delice.png';
 import MrinalTube from '../assets/work/MrinalTube.png';
 import LandingPage from '../assets/work/LandingPage.png';
 import MyNetflix from '../assets/work/Netflix.png';
@@ -9,10 +9,10 @@ import Mcrypto from '../assets/work/Mcrypto.png';
 const workData = [
   {
     id: 1,
-    title: 'MGym',
-    image: Mgym,
-    demoLink: 'https://transcendent-semolina-a8a371.netlify.app/',
-    codeLink: 'https://github.com/Mrinal-xx-Singha/gym_exercises',
+    title: 'Delice',
+    image: Delice,
+    demoLink: 'https://react-redux-teal.vercel.app/',
+    codeLink: 'https://github.com/Mrinal-xx-Singha/React_Redux/tree/main/react_small_projects/food_recipe',
   },
   {
     id: 2,
